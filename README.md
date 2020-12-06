@@ -1,7 +1,6 @@
 # loginapp
 
-A new Flutter project.
-
+Custom login screen
 ## Getting Started
 
 This project is a starting point for a Flutter application.
